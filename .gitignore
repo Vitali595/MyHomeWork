@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/src/p1-main/m1-ui/u1-app/App.test.tsx
+
+.idea/
