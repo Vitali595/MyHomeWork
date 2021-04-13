@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/MyHomeWork/static/css/main.446c069d.chunk.css",
-    "main.js": "/MyHomeWork/static/js/main.ed32002e.chunk.js",
-    "main.js.map": "/MyHomeWork/static/js/main.ed32002e.chunk.js.map",
+    "main.css": "/MyHomeWork/static/css/main.bbe3ae10.chunk.css",
+    "main.js": "/MyHomeWork/static/js/main.feedacf7.chunk.js",
+    "main.js.map": "/MyHomeWork/static/js/main.feedacf7.chunk.js.map",
     "runtime-main.js": "/MyHomeWork/static/js/runtime-main.a6a6ebd3.js",
     "runtime-main.js.map": "/MyHomeWork/static/js/runtime-main.a6a6ebd3.js.map",
-    "static/js/2.b5c35917.chunk.js": "/MyHomeWork/static/js/2.b5c35917.chunk.js",
-    "static/js/2.b5c35917.chunk.js.map": "/MyHomeWork/static/js/2.b5c35917.chunk.js.map",
+    "static/js/2.964e5e97.chunk.js": "/MyHomeWork/static/js/2.964e5e97.chunk.js",
+    "static/js/2.964e5e97.chunk.js.map": "/MyHomeWork/static/js/2.964e5e97.chunk.js.map",
     "index.html": "/MyHomeWork/index.html",
-    "static/css/main.446c069d.chunk.css.map": "/MyHomeWork/static/css/main.446c069d.chunk.css.map",
-    "static/js/2.b5c35917.chunk.js.LICENSE.txt": "/MyHomeWork/static/js/2.b5c35917.chunk.js.LICENSE.txt",
+    "static/css/main.bbe3ae10.chunk.css.map": "/MyHomeWork/static/css/main.bbe3ae10.chunk.css.map",
+    "static/js/2.964e5e97.chunk.js.LICENSE.txt": "/MyHomeWork/static/js/2.964e5e97.chunk.js.LICENSE.txt",
     "static/media/SuperCheckbox.module.css": "/MyHomeWork/static/media/checked.237a653e.png",
     "static/media/App.module.css": "/MyHomeWork/static/media/zvezdy_prostranstvo_galaktika_117958_1920x1080.ae82c4ee.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a6a6ebd3.js",
-    "static/js/2.b5c35917.chunk.js",
-    "static/css/main.446c069d.chunk.css",
-    "static/js/main.ed32002e.chunk.js"
+    "static/js/2.964e5e97.chunk.js",
+    "static/css/main.bbe3ae10.chunk.css",
+    "static/js/main.feedacf7.chunk.js"
   ]
 }
