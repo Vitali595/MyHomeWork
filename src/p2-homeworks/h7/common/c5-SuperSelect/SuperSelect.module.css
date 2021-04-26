@@ -1,0 +1,52 @@
+.mySelect {
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.mySelect select {
+    cursor:pointer;
+    background-color: turquoise;
+    color: #fff;
+    font-size: inherit;
+    width: 100px;
+    padding: 5px 10px 5px 10px;
+    margin-left: 15px;
+    border: 0;
+    border-radius: 3px;
+    text-indent: 1px;
+    text-overflow: '';
+    -webkit-appearance: button;
+}
+
+.mySelect::before,
+.mySelect::after {
+    content: "";
+    position: absolute;
+    pointer-events: none;
+}
+
+.mySelect::before {
+    width: 2em;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    border-radius: 0 3px 3px 0;
+}
+
+.mySelect select[disabled] {
+    color: rgba(0,0,0,.3);
+}
+
+.mySelect select[disabled]::after {
+    color: rgba(0,0,0,.1);
+}
+
+.mySelect::before {
+    background-color: rgba(0,0,0,.15);
+}
+
+.mySelect::after {
+    color: rgba(0,0,0,.4);
+}

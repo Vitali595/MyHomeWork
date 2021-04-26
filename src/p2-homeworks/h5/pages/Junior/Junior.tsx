@@ -1,10 +1,11 @@
 import React from 'react'
-import s from "./Junior.module.css"
+import HW7 from "../../../h7/HW7";
+import s from "./Junior.module.css";
 
 function Junior() {
     return (
-        <div>
-            <h3 className={s.junior}>Еще не выполнил</h3>
+        <div className={s.junior}>
+            <HW7/>
         </div>
     )
 }
