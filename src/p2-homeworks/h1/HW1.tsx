@@ -3,7 +3,7 @@ import Message from "./Message";
 
 function HW1() {
     const messageData = {
-        avatar: 'https://sun9-74.userapi.com/Ph-WiuOtF985il9AvN9JqiCWedmHtSGSSTXrSA/ltEB2Z2-YO4.jpg',
+        avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS884yE-aP3PQdStnZ7KZecX04EDdYa2YpRgQ&usqp=CAU',
         name: 'Vitali',
         message: 'some text',
         time: '20:00',

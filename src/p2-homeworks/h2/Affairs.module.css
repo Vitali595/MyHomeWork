@@ -16,7 +16,7 @@
 
 .littleButton {
     display: inline-block;
-    background: #9d0e2f;
+    background: #d200d9;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     transition: all 0.3s ease-out;
@@ -40,7 +40,7 @@
     display: inline-block;
     margin: 10px;
     padding: 8px 15px;
-    background: #B8ED01;
+    background: #01b6ed;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 4px;
     transition: all 0.3s ease-out;

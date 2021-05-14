@@ -18,7 +18,6 @@
 
 .checkbox:checked {
     appearance: none;
-
     background-image: url("checked.png");
 }
 

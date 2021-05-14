@@ -1,3 +1,5 @@
 .App {
-    background-image: url("img/zvezdy_prostranstvo_galaktika_117958_1920x1080.jpg");
+    color: white;
+    background-image: url("img/background_image.jpg");
+    min-height: 100vh;
 }
